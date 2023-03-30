@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-heading {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+
+.bg-container {
+    background-image: url('https://media.istockphoto.com/id/940236760/photo/catwalk-runway-show-event.jpg?s=170667a&w=0&k=20&c=r9_UHKv3uKuVCwszGoZKZzyybmNt5J_3oszW2xUN4ZI=');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.home-page-heading {
+    color: black;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 60px;
+    padding-left: 15px;
+}
+
+.home-page-card-container {
+    background-color: white;
+    padding-left: 15px;
+}
+
+.home-page-description {
+    color: black;
+    font-family: serif;
+    font-size: 20px;
+}
+
+.about-us-heading {
+    color: black;
+    font-family: Roboto;
+    font-size: 30px;
+    padding-left: 15px;
+    font-weight: 600;
+}
+
+.about-us-description {
+    color: black;
+    font-family: serif;
+    font-size: 18px;
+    padding-left: 15px;
+}
+
+.designer-heading {
+    color: black;
+    font-family: Roboto;
+    font-size: 30px;
+    padding-left: 15px;
+    font-weight: 600;
+}
+
+.designer-card-container {
+    background-color: white;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.designer-card {
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.designer-image {
+    height: 200px;
+    width: 180px;
+}
+
+
+.designer-description {
+    color: black;
+    font-family: serif;
+    font-size: 18px;
+    padding-left: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.featured-heading {
+    color: black;
+    font-family: Roboto;
+    font-size: 30px;
+    padding-left: 15px;
+    font-weight: 600;
+}
+
+.featured-image {
+    height: 260px;
+    width: 280px;
+}
+
+.featured-card-heading {
+    color: black;
+    font-family: Roboto;
+    font-size: 30px;
+    padding-left: 15px;
+    font-weight: 600;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.featured-card-description {
+    color: black;
+    font-family: serif;
+    font-size: 18px;
+    padding-left: 15px;
+    text-align: center;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: lightgrey;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: black;
+    font-size: 35px;
+}
+
+.event-heading {
+    color: black;
+    font-family: Roboto;
+    font-size: 30px;
+    padding-left: 15px;
+    font-weight: 600;
+}
+
+.event-container {
+    background-color: white;
+    flex-wrap: wrap;
+    padding-left: 12px;
+}
+
+.event-card {
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    width: 250px;
+    text-align: center;
+}
+
+.event-card-heading {
+    color: black;
+    font-family: Roboto;
+    font-size: 20px;
+    padding-left: 15px;
+    font-weight: 600;
+}
+
+.event-card-description {
+    color: black;
+    font-family: serif;
+    font-size: 15px;
+    font-weight: bold;
+}
